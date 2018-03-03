@@ -1,3 +1,7 @@
+void withdraw()
+{
+}
+
 void deposit()
 {
 }
