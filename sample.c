@@ -1,3 +1,7 @@
+void deposit()
+{
+}
+
 void additi0n()
 {
 }
